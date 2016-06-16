@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="keyboard_pressed">#ca5a5a</color>
+    <color name="message_gray">#808080</color>
+</resources>
