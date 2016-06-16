@@ -9,7 +9,7 @@
         android:layout_height="60dp"
         android:layout_marginTop="8dp" />
 
-2.在代码中设置数字键盘是否随机: 
+2.在代码中设置数字键盘是否随机:   
   GridPasswordView gridPasswordView = (GridPasswordView) findViewById(R.id.gridPasswordView);
 	gridPasswordView.setRandomNum(true);
   
