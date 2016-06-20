@@ -26,8 +26,8 @@
     
     <com.kayak.gridpasswordview.GridPasswordView
         android:id="@+id/gpv_normal2"
-        android:layout_width="360dp"
-        android:layout_height="60dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
         android:layout_marginTop="8dp" />
 
     <Button
